@@ -481,7 +481,7 @@ Achieved using:
 ```text
 spaceship-titanic-predictive-modeling/
 │
-├── notebook.ipynb
+├── spaceship-titanic-full-pipeline.ipynb
 ├── README.md
 ├── requirements.txt
 ├── spaceship-titanic-transport-dataset/
